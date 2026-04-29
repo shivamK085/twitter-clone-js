@@ -5,8 +5,6 @@ Users can create tweets, like posts, retweet, reply to tweets, delete tweets, an
 
 ## Live Demo
 
-Add your deployed link here:
-
 👉 https://fanciful-ganache-dc09a2.netlify.app/
 
 ---
