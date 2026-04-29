@@ -1,19 +1,46 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Twimba – Twitter Clone Frontend
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple Twitter/X inspired frontend project built with **HTML, CSS, and JavaScript**.  
+Users can create tweets, like posts, retweet, reply to tweets, delete tweets, and keep data saved using **Local Storage**.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Live Demo
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Add your deployed link here:
 
-Happy Coding!
+👉 https://your-netlify-link.netlify.app/
+
+---
+
+## Features
+
+- Create new tweets
+- Like / Unlike tweets
+- Retweet / Undo retweet
+- Reply to specific tweets
+- Reply section toggle
+- Delete tweets
+- Data persistence using Local Storage
+- Dynamic rendering with JavaScript
+- Responsive clean UI
+
+---
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6 Modules)
+- Local Storage API
+
+---
+
+## Project Structure
+
+```text
+Twimba/
+│── index.html
+│── index.css
+│── index.js
+│── data.js
+│── README.md
+└── images/
