@@ -48,7 +48,11 @@ Twimba/
 
 ## Screenshots
 
-![Homepage](images/project-screenshot.png)
+<p align="center">
+  <img src="images/project.png" width="600">
+  <br>
+  <em>Twimba Homepage</em>
+</p>
 
 ---
 
