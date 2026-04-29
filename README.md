@@ -49,7 +49,7 @@ Twimba/
 ## Screenshots
 
 <p align="center">
-  <img src="images/project.png" width="600">
+  <img src="images/project-screenshot.png" width="600">
   <br>
   <em>Twimba Homepage</em>
 </p>
