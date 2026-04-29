@@ -7,7 +7,7 @@ Users can create tweets, like posts, retweet, reply to tweets, delete tweets, an
 
 Add your deployed link here:
 
-👉 https://your-netlify-link.netlify.app/
+👉 https://fanciful-ganache-dc09a2.netlify.app/
 
 ---
 
