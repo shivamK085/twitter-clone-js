@@ -42,3 +42,44 @@ Twimba/
 │── data.js
 │── README.md
 └── images/
+```
+
+---
+
+## Screenshots
+
+![Homepage](images/project-screenshot.png)
+
+---
+
+## What I Learned
+
+- DOM manipulation
+- Event delegation
+- Dynamic rendering
+- Working with nested arrays/objects
+- and a lot more
+
+---
+
+## Challenges Faced
+
+- Replying to the correct tweet
+- Keeping reply section open after re-render
+- Fixing deployment image paths
+
+---
+
+## Future Improvements
+
+- Edit tweets
+- Dark mode
+- Better mobile responsiveness
+- Backend integration
+
+---
+
+## Author
+
+Shivam Kaushik  
+GitHub: https://github.com/yourusername
